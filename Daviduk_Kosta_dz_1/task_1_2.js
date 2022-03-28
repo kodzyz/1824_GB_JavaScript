@@ -12,3 +12,4 @@ admin = name;
 console.log(admin) // Василий
 
 
+
