@@ -1,0 +1,20 @@
+.board {
+    width: 560px;
+    height: 560px;
+    margin: 30px auto; 
+    border: 1px solid black;   
+}
+
+.black {
+    width: 70px;
+    height: 70px;
+    float: left;
+    background: #000;
+}
+
+.white {
+    width: 70px;
+    height: 70px;
+    float: left;
+    background: #fff;
+}
